@@ -1,3 +1,3 @@
 # summit-pack
 
-# the summit craft offical mod pack 
+# the summit craft official mod pack 
